@@ -55,7 +55,3 @@ we have been trying for our team internally and it has worked great.
 
 Assigned review status, coming soon…
 Pages
-
-{% for decision in site.collections.decisions.docs %}
-  <h2>{{ decision.title }}</h2>
-{% endfor %}
