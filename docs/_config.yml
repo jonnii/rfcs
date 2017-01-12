@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+
 collections:
-  decisions: 
+  decisions:
     output: true
