@@ -51,6 +51,6 @@ Popular open source projects have the unenviable problem of communicating decisi
 Assigned review status, coming soon…
 Pages
 
-{% for decision in site.decisions %}
+{% for decision in site.collections.decisions.docs %}
   <h2>{{ decision.title }}</h2>
 {% endfor %}
