@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
 collections:
-    decisions: 
-        output: true
+  decisions: 
+    output: true
