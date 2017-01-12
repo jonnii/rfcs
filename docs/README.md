@@ -1,6 +1,8 @@
 # RFC Register
 
-### Previously Closed RFCS
+
+
+### Decisions
 
 {% for page in site.decisions %}
   * [{{page.title}}]({{page.url}})
