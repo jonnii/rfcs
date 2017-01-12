@@ -1,3 +1,7 @@
+---
+title: My Excellent Decision
+---
+
 # My Excellent Decision
 
 ## Summary
