@@ -21,23 +21,32 @@ Popular open source projects have the unenviable problem of communicating decisi
 * New team members can find something the team had discussed, and regardless of level can find something to “own” day one, likely things the team wants to do but doesn’t have time to or hasn’t been a priority. 
 
 ### Challenges for enterprise teams
+
 * Build institutional knowledge
 * Try to avoid the “new team lets rewrite everything effect”
 
-### How to implement this
+### How to create an RFC repo
+
 1. Create a repo called RFCs (or clone this one)
 1. Create a README and a markdown template
 1. Define any labels you think are useful
 1. Done!
 
-### Leveling up?
-1. Use projects to visualize RFC state?
+### How to create an RFC
 
-### How to use this?
- * Create a new branch, copying the template, fill it out, create PR
- * Follow your usual workflow, maybe assign reviewers
- * When you have a way forward, merge the PR
+1. Create a new branch
+1. Copy the template
+1. Fill it out using markdown (vs code is excellent for this!)
+1. Create a PR to start the conversation
+1. Follow your usual workflow, maybe assign reviewers
+1. When you have a way forward, merge the PR
+
+### Leveling up?
+
+1. Use projects to visualize RFC state?
+1. Pages
 
 ### Dotcom vs. enterprise
+
 Assigned review status, coming soon…
 Pages
