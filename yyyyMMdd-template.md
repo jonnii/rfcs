@@ -2,8 +2,6 @@
 title: A catchy title for your RFC
 ---
 
-# A catchy title for your RFC
-
 ## Summary
 
 At a high level what's the objective of this decision?
