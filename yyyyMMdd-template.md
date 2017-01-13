@@ -16,6 +16,8 @@ Why do we need to do this? Who does this change help? What's the expected outcom
 
 The bulk of the RFC, enough detail that anyone should be able to constructively comment. Define new terminology.
 
+## Benefits
+
 ## Drawbacks
 
 There are always tradeoffs, make sure to call them out.
