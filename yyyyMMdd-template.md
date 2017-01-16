@@ -16,6 +16,8 @@ The bulk of the RFC, enough detail that anyone should be able to constructively 
 
 ## Benefits
 
+What are the main benefits of this? 
+
 ## Drawbacks
 
 There are always tradeoffs, make sure to call them out.
