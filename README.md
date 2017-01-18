@@ -1,15 +1,15 @@
 # rfcs
 
-### Github doesn’t just mean source control, it’s a great community building tool.
+### Github doesn’t just mean source control, it’s a great community building tool
 
 Open source teams are distributed by design, enterprise teams are looking to the 
-open source community for ideas as to how to be better in this environment which is trending 
+open source community for ideas as to how to be better in an environment which is trending 
 that way. Whether you're running an open source team or trying to get your enterprise teams to 
 collaborate more an RFC process is a great way to get everyone involved.
 
 Popular open source projects have the unenviable problem of communicating decisions and change, 
 especially breaking changes, rust and ember are adopting an RFC process, this is something 
-we have been trying for our team internally and it has worked great.
+that you can adopt if you're an enterprise software development team or an open source community.
 
 ### Benefits to a github based RFC process
 
