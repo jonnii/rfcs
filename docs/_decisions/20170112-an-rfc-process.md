@@ -112,6 +112,6 @@ cp yyyyMMdd-template.md docs/20170112-convert-tabs-vs-spaces.md
 * Does doing RFCs present a danger besides friction? i.e. Now everyone is fighting over RFC comments instead of doing work. 
  * Is there an impact bar for RFCs?
 
- - [X] If you build it will they come? :baseball:
-  - [X] Yes! :shipit:
-  - [ ] ~~No~~
+- [X] If you build it will they come? :baseball:
+ - [X] Yes! :shipit:
+ - [ ] ~~No~~
