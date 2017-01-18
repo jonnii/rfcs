@@ -7,6 +7,7 @@ defaults:
     values:
       layout: "default"
 
+
 collections:
   decisions:
     output: true
