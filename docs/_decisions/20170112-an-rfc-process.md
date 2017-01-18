@@ -8,8 +8,6 @@ GitHub makes it easy for the team to collaboratively build software, but
 we're still having problems communicating and recording decisions. This 
 RFC outlines a GitHub based RFC (request for comments) process to help.
 
-> tl;dr - write down decisions in markdown and open a pull request
-
 ## Motivation
 
 The main motivation for us needing a process is that we have **three regional 
@@ -44,6 +42,8 @@ Two projects with excellent RFC processes:
 
 ### Creating a place to store your RFCs
 
+> tl;dr - create a repo to store your RFCs
+
 1. Create a new repo
 1. Create a `README.md` describing the process
 1. Create an `yyyyMMdd-template.md` with lead in headers
@@ -57,6 +57,8 @@ Two projects with excellent RFC processes:
 1. Create a `/docs` folder to contain your RFCs (you may need a `.gitkeep` if it's empty) 
 
 ### Writing an RFC
+
+> tl;dr - write down decisions in markdown and open a pull request
 
 Writing an RFC should be as low ceremony as possible, by following the same
 workflow we do for code changes teaching this will be very easy to new
