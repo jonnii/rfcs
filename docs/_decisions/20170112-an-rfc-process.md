@@ -60,7 +60,7 @@ Two projects with excellent RFC processes:
 
 > tl;dr - write down decisions in markdown and open a pull request
 
-Writing an RFC should be as low ceremony as possible, by following the same
+Writing an RFC should be as easy as possible, by following the same
 workflow we do for code changes teaching this will be very easy to new
 and existing developers.
 
@@ -85,7 +85,7 @@ cp yyyyMMdd-template.md docs/20170112-convert-tabs-vs-spaces.md
   * Encourages contribution
 * Builds institutional knowledge
   * Includes _context_ of decisions
-  * Helps avoid the _new team rewrite_
+  * Helps avoid the "new team rewrite"
 * Encourages ownership
   * Especially for new team members
 
@@ -105,6 +105,12 @@ cp yyyyMMdd-template.md docs/20170112-convert-tabs-vs-spaces.md
 * Use email :love_letter: :boom:
 
 ## Unresolved Questions
+
+* At what point do RFCs become appropriate? 
+ * Distributed team? Greater than n team members? What are the symptoms?
+
+* Does doing RFCs present a danger besides friction? i.e. Now everyone is fighting over RFC comments instead of doing work. 
+ * Is there an impact bar for RFCs?
 
  - [X] If you build it will they come? :baseball:
   - [X] Yes! :shipit:
