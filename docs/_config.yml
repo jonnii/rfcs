@@ -1,12 +1,5 @@
 theme: jekyll-theme-cayman
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
-
 collections:
   decisions:
     output: true
